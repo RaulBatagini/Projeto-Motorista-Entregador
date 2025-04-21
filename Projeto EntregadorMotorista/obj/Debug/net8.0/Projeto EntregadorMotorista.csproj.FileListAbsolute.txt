@@ -1,0 +1,14 @@
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\obj\Debug\net8.0\Projeto EntregadorMotorista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\obj\Debug\net8.0\Projeto EntregadorMotorista.AssemblyInfoInputs.cache
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\obj\Debug\net8.0\Projeto EntregadorMotorista.AssemblyInfo.cs
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\obj\Debug\net8.0\Projeto EntregadorMotorista.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\bin\Debug\net8.0\Projeto EntregadorMotorista.exe
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\bin\Debug\net8.0\Projeto EntregadorMotorista.deps.json
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\bin\Debug\net8.0\Projeto EntregadorMotorista.runtimeconfig.json
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\bin\Debug\net8.0\Projeto EntregadorMotorista.dll
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\bin\Debug\net8.0\Projeto EntregadorMotorista.pdb
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\obj\Debug\net8.0\Projeto EntregadorMotorista.dll
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\obj\Debug\net8.0\refint\Projeto EntregadorMotorista.dll
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\obj\Debug\net8.0\Projeto EntregadorMotorista.pdb
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\obj\Debug\net8.0\Projeto EntregadorMotorista.genruntimeconfig.cache
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projeto EntregadorMotorista\obj\Debug\net8.0\ref\Projeto EntregadorMotorista.dll
